@@ -1,2 +1,1 @@
-# First-repo
-kjklmlmlmml
+My first try try to ude Git Bash
