@@ -2,7 +2,6 @@ this is my first text file on git
 this is my first text file on git
 this is my first text file on git
 this is my first text file on git
-this is my first text file on git
-bla bla bla
+this is my first text file on github
 
 
